@@ -9,11 +9,14 @@ dataset `osyvokon/pavlick-formality-scores` (Syvokon, 2023).
 
 Before you begin, make sure you have all the necessary libraries installed:
 
-`pip install -r requirements.txt`
-
+```
+pip install -r requirements.txt
+```
 Run the script to reproduce the results:
 
-`python main.py`
+```
+python main.py
+```
 
 ## Tools and Techniques
 
